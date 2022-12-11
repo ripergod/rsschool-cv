@@ -1,3 +1,2 @@
 # rsschool-cv
-vova
-palagin
+https://vovapalagin.github.io/rsschool-cv/cv
